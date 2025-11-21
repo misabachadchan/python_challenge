@@ -1,4 +1,4 @@
-# Day 1: Variables & Data Types (Program 1)
+# Day 1: Variables & Data Types 
 
 ## 📌 What Are Variables?
 
