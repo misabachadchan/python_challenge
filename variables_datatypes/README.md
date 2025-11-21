@@ -65,7 +65,7 @@ Variables + data types form the foundation of Python.
 17. Store length and width of a rectangle and calculate perimeter & area.
 18. Take radius input and print both area and circumference of a circle.
 
-## Above are the solutions of all practice problems 
+## Above are the solutions for all the practice problems
 
 
 
