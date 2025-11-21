@@ -32,7 +32,7 @@ Variables + data types form the foundation of Python.
 
 ---
 
-# ✅ 20 Practice Problems
+# ✅ Practice Problems
 
 ## 🔹 Easy (1–7)
 
