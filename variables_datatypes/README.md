@@ -131,5 +131,7 @@ print(type(n))
 
 ## Above are the solutions for all the practice problems
 
+[Type casting](https://www.geeksforgeeks.org/python/type-casting-in-python/)
+
 
 
