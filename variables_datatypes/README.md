@@ -38,26 +38,26 @@ Python Explicit Type Conversion
 ## Implicit Type Conversion
 In this, method, Python converts the datatype into another datatype automatically. Users don't have to involve in this process. 
 
-# implicit type Casting 
+# Example
 
-# Python automatically converts 
-# a to int 
+Python automatically converts 
+a to int 
 a = 7
 print(type(a)) 
 
-# Python automatically converts 
-# b to float 
+Python automatically converts 
+ b to float 
 b = 3.0
 print(type(b)) 
 
-# Python automatically converts 
-# c to float as it is a float addition 
+Python automatically converts 
+c to float as it is a float addition 
 c = a + b 
 print(c) 
 print(type(c))
 
-# Python automatically converts 
-# d to float as it is a float multiplication
+Python automatically converts 
+d to float as it is a float multiplication
 d = a * b
 print(d)
 print(type(d))
@@ -67,7 +67,7 @@ print(type(d))
 In this method, Python needs user involvement to convert the variable data type into the required data type. 
 
  # Example
- # int variable
+int variable
 a = 5
 
 # typecast to float
@@ -86,7 +86,7 @@ print(type(n))
 
 ## ✅ Practice Problems
 
-## 🔹 Easy (1–7)
+# 🔹 Easy (1–7)
 
 1. Store your name in a variable and print it.
 2. Store your age in a variable and print "I am X years old".
@@ -98,7 +98,7 @@ print(type(n))
 
 ---
 
-## 🔸 Medium (8–14)
+# 🔸 Medium (8–14)
 
 8. Convert a float number to integer and print both. *(Program 1 only, not Program 2)*
 9. Convert a string "123" to integer and add 10.
@@ -108,7 +108,7 @@ print(type(n))
 
 ---
 
-## 🔹 Mini-Practical / Applied (15–20)
+# 🔹 Mini-Practical / Applied (15–20)
 
 13. Store your marks in 5 subjects in variables and calculate total & percentage.
 14. Store product price and quantity in variables and calculate total bill.
