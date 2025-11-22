@@ -178,7 +178,7 @@ print(a | b)  # 7 (0111)
 
 ---
 
-## **Medium (8–14)**
+## **Medium (8–12)**
 
 8. Use logical operators to check if a number is divisible by both 2 and 3.
 9. Use membership operator: check if “a” is in the string “banana”.
@@ -188,7 +188,7 @@ print(a | b)  # 7 (0111)
 
 ---
 
-## **Mini-Practical / Applied (15–20)**
+## **Mini-Practical / Applied (13-17)**
 
 
 13. Take a string and check if the first letter is a vowel using membership + logical operators.
