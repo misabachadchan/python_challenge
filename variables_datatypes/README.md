@@ -28,11 +28,63 @@ Data types define the kind of value a variable holds.
 * **tuple** → fixed collection (1, 2, 3)
 * **dict** → key‑value pairs {"name": "Misaba"}
 
-Variables + data types form the foundation of Python.
+## Type Casting in Python
 
----
+Type Casting is the method to convert the Python variable datatype into a certain data type in order to perform the required operation by users. In this article, we will see the various techniques for typecasting. 
+There can be two types of Type Casting in Python:
+Python Implicit Type Conversion
+Python Explicit Type Conversion
 
-# ✅ Practice Problems
+## Implicit Type Conversion
+In this, method, Python converts the datatype into another datatype automatically. Users don't have to involve in this process. 
+
+# implicit type Casting 
+
+# Python automatically converts 
+# a to int 
+a = 7
+print(type(a)) 
+
+# Python automatically converts 
+# b to float 
+b = 3.0
+print(type(b)) 
+
+# Python automatically converts 
+# c to float as it is a float addition 
+c = a + b 
+print(c) 
+print(type(c))
+
+# Python automatically converts 
+# d to float as it is a float multiplication
+d = a * b
+print(d)
+print(type(d))
+
+
+## Explicit Type Conversion
+In this method, Python needs user involvement to convert the variable data type into the required data type. 
+
+ # Example
+ # int variable
+a = 5
+
+# typecast to float
+n = float(a)
+
+print(n)
+print(type(n))
+
+# similar like this we convert to
+1.int to String 
+2.String to float
+3.string to int
+
+
+
+
+## ✅ Practice Problems
 
 ## 🔹 Easy (1–7)
 
