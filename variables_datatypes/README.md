@@ -40,46 +40,58 @@ In this, method, Python converts the datatype into another datatype automaticall
 
 # Example
 
-Python automatically converts 
-a to int 
+```
+
+# implicit type Casting 
+
+# Python automatically converts 
+# a to int 
 a = 7
 print(type(a)) 
 
-Python automatically converts 
- b to float 
+# Python automatically converts 
+# b to float 
 b = 3.0
 print(type(b)) 
 
-Python automatically converts 
-c to float as it is a float addition 
+# Python automatically converts 
+# c to float as it is a float addition 
 c = a + b 
 print(c) 
 print(type(c))
 
-Python automatically converts 
-d to float as it is a float multiplication
+# Python automatically converts 
+# d to float as it is a float multiplication
 d = a * b
 print(d)
 print(type(d))
+
+```
 
 
 ## Explicit Type Conversion
 In this method, Python needs user involvement to convert the variable data type into the required data type. 
 
  # Example
-int variable
+ ``` 
+ # integer variable
 a = 5
+# string variable
+b = 't'
 
-# typecast to float
-n = float(a)
+# typecast to int
+n = a+b
 
 print(n)
 print(type(n))
+```
 
-# similar like this we convert to
+# Similar like this we convert to
+```
 1.int to String 
 2.String to float
 3.string to int
+```
 
 
 
