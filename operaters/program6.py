@@ -1,0 +1,12 @@
+a=20
+b=20
+c=30
+d=40
+a+=20
+b-=10
+c*=20
+d/=20
+print(a)
+print(b)
+print(c)
+print(d)
