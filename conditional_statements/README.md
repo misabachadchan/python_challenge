@@ -209,8 +209,6 @@ A curated list of **beginner to advanced** Python problems focused on **conditio
 
 ---
 
-# ⭐ **BASIC LEVEL (1–15)**
-
 ### **1. Check if a number is positive or negative.**
 
 Input: `5` → Output: *Positive*
@@ -256,10 +254,6 @@ If temp > 30 → “Hot”, else “Cool”.
 ### **14. Check if character is uppercase or lowercase.**
 
 ### **15. Check whether a number ends with digit 0.**
-
----
-
-# ⭐ **INTERMEDIATE LEVEL (16–35)**
 
 ### **16. Find greatest of three numbers (using nested if).**
 
@@ -310,110 +304,6 @@ Underweight, Normal, Overweight, Obese.
 
 * Experience > 5 years → 10%
 * Else → 5%
-
-### **30. Library fine:**
-
-* 1–5 days → ₹1/day
-* 6–10 → ₹2/day
-* > 10 → ₹5/day
-
-### **31. Movie ticket price:**
-
-* Age < 10 → Free
-* 10–18 → 50
-* 18+ → 100
-
-### **32. Check if number contains digit “3”.**
-
-### **33. ATM withdrawal logic:**
-
-Amount must be multiple of 100.
-
-### **34. Shopping discount:**
-
-* > 5000 → 20%
-* 2000–5000 → 10%
-* <2000 → No discount
-
-### **35. Check if number is prime using simple condition (no loops).**
-
-Check divisibility by 2, 3, 5 only.
-
----
-
-# ⭐ **ADVANCED LEVEL (36–50)**
-
-### **36. Strong password checker:**
-
-Must have:
-
-* length ≥ 8
-* digit
-* uppercase
-* lowercase
-* special char
-
-### **37. Scholarship eligibility:**
-
-* Score ≥ 90 → Full
-* 80–89 → Half
-* 70–79 → Quarter
-* <70 → No scholarship
-
-### **38. Classify day type from day number:**
-
-* 1–5 → Weekday
-* 6 → Saturday
-* 7 → Sunday
-
-### **39. Determine quadrant of a point (x, y).**
-
-### **40. Quadratic equation roots:**
-
-Based on discriminant (D):
-
-* D > 0 → 2 real roots
-* D = 0 → 1 root
-* D < 0 → No real roots
-
-### **41. Compare two strings lexicographically (no comparison operators).**
-
-### **42. Water bill calculation (slab-based).**
-
-### **43. Income tax calculator (slab-based).**
-
-### **44. Check if two numbers have same last digit.**
-
-### **45. Check if three angles form a valid triangle.**
-
-### **46. Loan eligibility:**
-
-* Salary ≥ required
-* CIBIL ≥ 700
-* Age 21–60
-
-### **47. Railway ticket fare (class & distance based).**
-
-### **48. Student attendance:**
-
-Attendance < 75% → *Not allowed for exam*
-
-### **49. Website type from domain extension:**
-
-* `.com` → Commercial
-* `.org` → Organization
-* `.edu` → Education
-* `.gov` → Government
-
-### **50. Nested if ladder: Mobile plan suggestion**
-
-Based on:
-
-* Data usage
-* Calls
-* SMS
-
----
 
 
 
