@@ -1,0 +1,14 @@
+def primes_upto_n(n):
+    primes = []
+    for num in range(2, n+1):
+        prime = True
+        for i in range(2, num):
+            if num % i == 0:
+                prime = False
+                break
+        if prime:
+            primes.append(num)
+    return primes
+
+x = int(input("Enter N: "))
+print("Primes up to N:", primes_upto_n(x))
