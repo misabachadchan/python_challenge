@@ -224,17 +224,6 @@ print(f"My name is {name} and I am {age} years old.")
 
 ## 15. Check if two strings are anagrams  
 
-## 16. Remove duplicate characters from a string  
-
-## 17. Find the most frequent character in a string  
-
-## 18. Count uppercase and lowercase letters in a string  
-
-## 19. Print all possible substrings of a string  
-
-## 20. Encode a string using a basic Caesar cipher (shift by 3)
-
-
 ---
 
 
