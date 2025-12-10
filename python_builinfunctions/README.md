@@ -94,31 +94,17 @@ reduce(lambda x, y: x + y, list)
 
 # 📝 Lambda Function Practice Questions
 
-## BASIC LEVEL
 
-## 1. Write a lambda function to add two numbers.
-
-## 2. Write a lambda function to find the square of a number.
-
-## 3. Write a lambda function to check if a number is even.
-
-## 4. Write a lambda function to find the maximum of two numbers.
-
-## 5. Write a lambda function to find the cube of a number.
-
----
-
-## INTERMEDIATE LEVEL
-
-## 6. Write a lambda function to find the length of a string.
-
-## 7. Write a lambda function to check if a string is palindrome.
-
-## 8. Write a lambda function to return first character of a string.
-
-## 9. Write a lambda function to find absolute value of a number.
-
-## 10. Write a lambda function to check if a number is divisible by 5.
+1. Write a lambda function to add two numbers.
+2. Write a lambda function to find the square of a number.
+3. Write a lambda function to check if a number is even.
+4. Write a lambda function to find the maximum of two numbers.
+5. Write a lambda function to find the cube of a number.
+6. Write a lambda function to find the length of a string.
+7. Write a lambda function to check if a string is palindrome.
+8. Write a lambda function to return first character of a string.
+9. Write a lambda function to find absolute value of a number.
+10. Write a lambda function to check if a number is divisible by 5.
 
 
 # 📘 Python Map, Filter, Reduce
