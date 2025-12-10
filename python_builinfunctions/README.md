@@ -1,5 +1,127 @@
 
-# Day-11 📘 Python Map, Filter, Reduce
+
+# 📘 Day-11 — Python Lambda Functions
+
+Lambda functions are **anonymous (nameless) functions** used for short, simple operations in Python.
+
+---
+
+## 📌 What is a Lambda Function?
+
+A **lambda function** is a small, one-line function defined using the `lambda` keyword instead of `def`.
+
+```python
+lambda arguments : expression
+```
+
+Example:
+
+```python
+add = lambda x, y: x + y
+```
+
+---
+
+## 📌 Key Characteristics of Lambda Functions
+
+| Feature        | Description                                     |
+| -------------- | ----------------------------------------------- |
+| Anonymous      | No function name required                       |
+| Single-line    | Contains only one expression                    |
+| Fast execution | Less overhead than normal functions             |
+| Readable       | Useful for short and simple operations          |
+| Functional     | Often used with `map()`, `filter()`, `reduce()` |
+
+---
+
+## 📌 Why Use Lambda Functions?
+
+* To write **short functions quickly**
+* To avoid creating full `def` functions
+* Useful for **inline operations**
+* Helps write clean and concise code
+* Mostly used with **map, filter, reduce**
+
+---
+
+## 📌 When to Use Lambda?
+
+✅ When logic is **simple and short**
+✅ When function is used **only once**
+❌ Not recommended for complex logic
+❌ Not suitable for multi-line code
+
+---
+
+## 📌 Lambda vs Normal Function
+
+| Normal Function | Lambda Function |
+| --------------- | --------------- |
+| Uses `def`      | Uses `lambda`   |
+| Multi-line      | Single-line     |
+| Has name        | Anonymous       |
+| Reusable        | One-time use    |
+
+---
+
+## 📌 Lambda with Built-in Functions
+
+### 🔹 Lambda with `map()`
+
+Used to apply a function to all elements.
+
+```python
+map(lambda x: x*x, list)
+```
+
+### 🔹 Lambda with `filter()`
+
+Used to filter elements based on condition.
+
+```python
+filter(lambda x: x % 2 == 0, list)
+```
+
+### 🔹 Lambda with `reduce()`
+
+Used to reduce elements to a single value.
+
+```python
+reduce(lambda x, y: x + y, list)
+```
+
+---
+
+# 📝 Lambda Function Practice Questions
+
+## BASIC LEVEL
+
+## 1. Write a lambda function to add two numbers.
+
+## 2. Write a lambda function to find the square of a number.
+
+## 3. Write a lambda function to check if a number is even.
+
+## 4. Write a lambda function to find the maximum of two numbers.
+
+## 5. Write a lambda function to find the cube of a number.
+
+---
+
+## INTERMEDIATE LEVEL
+
+## 6. Write a lambda function to find the length of a string.
+
+## 7. Write a lambda function to check if a string is palindrome.
+
+## 8. Write a lambda function to return first character of a string.
+
+## 9. Write a lambda function to find absolute value of a number.
+
+## 10. Write a lambda function to check if a number is divisible by 5.
+
+
+# 📘 Python Map, Filter, Reduce
 
 Python provides **higher-order functions** to process collections of data easily.
 The most commonly used are:
