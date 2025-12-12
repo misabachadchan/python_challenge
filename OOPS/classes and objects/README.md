@@ -241,4 +241,5 @@ Methods: update_rating, display info
 11. Create Temperature class to convert Celsius to Fahrenheit and vice versa.
 12. Create a Student class to calculate percentage.
 13. Create a Point class to calculate distance from origin.
+14. Create a class BookStore that keeps a list of books and a method to add books. 
 
