@@ -9,7 +9,11 @@ class BookStore():
             self.books.append(m)
 
     def display(self):
-        print("Books list:",self.books)
+        print("Books in store:")
+        for i, b in enumerate(self.books, start=1):
+            print(i, b)
+        
+       
         
 book=BookStore()
 book.Add_Books()
