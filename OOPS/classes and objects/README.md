@@ -242,4 +242,12 @@ Methods: update_rating, display info
 12. Create a Student class to calculate percentage.
 13. Create a Point class to calculate distance from origin.
 14. Create a class BookStore that keeps a list of books and a method to add books. 
+15. Create a class Circle and add method to calculate circumference. 
+16. Create a class Employee and method to check if salary is above average (pass salary as 
+argument). 
+17. Create a class Student and method to check if the student passed (marks ≥ 40). 
+18. Create a class Library with methods to add a book, remove a book, and list all books. 
+19. Create a class Account that allows deposit, withdraw, and keeps transaction history. 
+20. Create a class Car with attributes brand, fuel and methods drive (reduces fuel) and 
+refuel.
 
